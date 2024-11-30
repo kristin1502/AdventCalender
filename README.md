@@ -1,1 +1,0 @@
-TODO an Dich mit "python -m http.server" lokal hosten 
